@@ -104,32 +104,31 @@ class ShashankMishra:
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-shm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-shm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=code-shm&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=code-shm&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-shm&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-shm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=code-shm&theme=algolia&no-frame=true&row=1&column=7"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-shm&theme=tokyo-night"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-shm&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
+</div>
 ---
 
 # 🌐 Connect
