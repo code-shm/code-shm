@@ -1,13 +1,21 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
 # 👋 Hi, I'm Shashank Mishra
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Researcher;Computer+Vision+Engineer;Large+Language+Models;Agentic+AI;Always+Building+Something+Cool+🚀" />
+### Machine Learning Engineer • AI Researcher • Computer Vision • Large Language Models
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=code-shm&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/code-shm?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/code-shm?affiliations=OWNER&style=for-the-badge"/>
+  <a href="https://github.com/code-shm">
+    <img src="https://komarev.com/ghpvc/?username=code-shm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/code-shm?tab=followers">
+    <img src="https://img.shields.io/github/followers/code-shm?label=Followers&style=for-the-badge&color=0e75b6"/>
+  </a>
+  <a href="https://github.com/code-shm">
+    <img src="https://img.shields.io/github/stars/code-shm?affiliations=OWNER&style=for-the-badge&color=0e75b6"/>
+  </a>
 </p>
 
 </div>
