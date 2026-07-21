@@ -46,69 +46,38 @@ class ShashankMishra:
 
 ---
 
-# ⚡ Tech Stack
+## 💻 Tech Stack
 
-### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,sql"/>
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### AI & Machine Learning
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-<img height="50" src="https://cdn.simpleicons.org/scikitlearn/F7931E"/>
-<img height="50" src="https://cdn.simpleicons.org/huggingface/FFD21E"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,aws,vscode,pycharm"/>
-</p>
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ---
 
-# 🧠 Currently Exploring
-
-- 🤖 AI Agents & Multi-Agent Systems
-- 🧠 Large Language Models
-- 👁️ Computer Vision
-- ⚡ Optimization
-- 📚 Deep Learning
-- 🔎 Information Retrieval
-- ☁️ Scalable ML Systems
-
----
-
-# 🏆 Highlights
-
-🏅 LLM Research Intern — University of Vienna
-
-🥇 SPARK Research Fellow — IIT Roorkee (Top 2%)
-
-🏆 Top 1000 — Amazon ML Challenge
-
-🥇 3× Hackathon Winner
-
-📄 Multiple AI Research Publications
-
-💻 LeetCode 1700+ | CodeChef 3★
-
----
 
 # 📊 GitHub Analytics
 
