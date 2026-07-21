@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hi there 👋 I'm Shashank Mishra
+# 👋 Hi, I'm Shashank Mishra
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Researcher;Computer+Vision+Enthusiast;Large+Language+Models;Agentic+AI+%7C+Deep+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Researcher;Computer+Vision+Engineer;Large+Language+Models;Agentic+AI;Always+Building+Something+Cool+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=code-shm&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/code-shm?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/code-shm?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -15,8 +19,13 @@
 ```python
 class ShashankMishra:
 
-    education = "B.Tech Data Science & AI @ IIIT Naya Raipur"
-    cgpa = "9.43/10"
+    role = "Machine Learning Engineer"
+
+    education = {
+        "Institute": "IIIT Naya Raipur",
+        "Major": "Data Science & Artificial Intelligence",
+        "CGPA": "9.43/10"
+    }
 
     currently = [
         "🔬 LLM Research @ University of Vienna",
@@ -28,16 +37,16 @@ class ShashankMishra:
         "Computer Vision",
         "Agentic AI",
         "Deep Learning",
-        "Information Retrieval",
-        "Optimization"
+        "Optimization",
+        "Information Retrieval"
     ]
 
-    motto = "Build. Research. Learn. Repeat."
+    motto = "Build • Research • Learn • Repeat 🚀"
 ```
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
@@ -49,8 +58,8 @@ class ShashankMishra:
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-<img height="48" src="https://cdn.simpleicons.org/scikitlearn/F7931E"/>
-<img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E"/>
+<img height="50" src="https://cdn.simpleicons.org/scikitlearn/F7931E"/>
+<img height="50" src="https://cdn.simpleicons.org/huggingface/FFD21E"/>
 </p>
 
 ### Backend
@@ -73,86 +82,92 @@ class ShashankMishra:
 
 ---
 
-# 🎯 Areas of Interest
+# 🧠 Currently Exploring
 
-🧠 Large Language Models
-
-🤖 AI Agents & Multi-Agent Systems
-
-👁️ Computer Vision
-
-📊 Machine Learning
-
-📚 Deep Learning
-
-⚡ Optimization
-
-🔎 Information Retrieval
-
-🎓 AI Research
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 Large Language Models
+- 👁️ Computer Vision
+- ⚡ Optimization
+- 📚 Deep Learning
+- 🔎 Information Retrieval
+- ☁️ Scalable ML Systems
 
 ---
 
-# 🏆 Achievements
+# 🏆 Highlights
 
-🥇 Research publications in leading AI venues
+🏅 LLM Research Intern — University of Vienna
 
-🏅 SPARK Fellow @ IIT Roorkee (Top 2%)
+🥇 SPARK Research Fellow — IIT Roorkee (Top 2%)
 
 🏆 Top 1000 — Amazon ML Challenge
 
 🥇 3× Hackathon Winner
 
+📄 Multiple AI Research Publications
+
 💻 LeetCode 1700+ | CodeChef 3★
 
 ---
 
-# 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-<p align="left">
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-shm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=code-shm&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-shm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=code-shm&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-shm&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/code-shm">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 <a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="YOUR_GITHUB">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shashank23102@iiitnr.edu.in">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="YOUR_KAGGLE">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48"/>
+<img height="48" src="https://cdn.simpleicons.org/kaggle/20BEFF"/>
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⚡ "Building AI that moves from research to real-world impact."
+### ⭐ *"Turning research into intelligent systems that solve real-world problems."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
 
 </div>
-
-
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
