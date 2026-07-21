@@ -78,6 +78,21 @@ class ShashankMishra:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ---
 
+## 📚 Research Publications
+
+📄 **Decoding Arctic Sea Ice Anomalies with Data-Driven Machine Learning Models**  
+*Ocean Modelling* (Under Review)
+
+📄 **Physics-Guided Optimization for Learning under Physiological Constraints: A Case Study on Hemoglobin Estimation**  
+*LION 20*
+
+📄 **Budgeted Multi-Objective Feature Engineering via LLM-Guided Program Search**  
+*LION 20*
+
+📜 **Patent**
+- Fuzzy Logic-Enhanced Probabilistic Tracking Framework with Feedback Integration for USWNs
+
+-------------------
 
 # 📊 GitHub Analytics
 
